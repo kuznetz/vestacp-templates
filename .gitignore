@@ -1,0 +1,6 @@
+/package-lock.json
+/token
+/node_modules
+/frontendSrc/node_modules
+/frontendSrc/package-lock.json
+/test
